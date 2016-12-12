@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ca.edumedia.grif0193.first"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ca.edumedia.grif0193.first"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ca.edumedia.grif0193.first"
+        }
+    },
+    "dependent_plugins": {}
+}
